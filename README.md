@@ -14,9 +14,9 @@ These are the original handwritten pages documenting the development of the Dyna
 ![Page 3](p3.jpg)
 
 ### Page 4
-![Page 4](p4.jpg)
+![Page 4](p4.png)
 
 ### Page 5
-![Page 5](p5.jpg)
+![Page 5](p5.png)
 
 for more of me visit : www.github.com/saturdayisnotsunday/EMULATOR
