@@ -3,6 +3,7 @@
 ## Research & Development Notes
 
 These are the original handwritten pages documenting the development of the Dynamic Compliance Mesh.
+Used chatgpt for image generation
 
 ### Page 1
 ![Page 1](p1.jpg)
