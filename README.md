@@ -20,4 +20,4 @@ Used chatgpt for image generation
 ### Page 5
 ![Page 5](p5.png)
 
-for more of me visit : www.github.com/saturdayisnotsunday/EMULATOR
+For more of my work, visit: [EMULATOR](https://github.com/saturdayisnotsunday/EMULATOR)
