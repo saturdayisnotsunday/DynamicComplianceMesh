@@ -6,11 +6,11 @@ An interactive breakdown of the DCM structure — a cutaway body view, four styl
 
 
 
-GitHub strips scripts out of Markdown and raw HTML previews, so the file won't render inline on this page. To view it locally instead of using the link above: download `dcm-visual.html` from this repo and open it in a browser, or paste the raw file URL into [htmlpreview.github.io](https://htmlpreview.github.io/).
+GitHub strips scripts out of Markdown and raw HTML previews so that the file won't render inline on this page. Scroll to the bottom and click open visualization.
 
 ## Research & Development Notes
 
-Original handwritten pages documenting the development of the Dynamic Compliance Mesh. Image generation for the early concept renders used ChatGPT.
+Original handwritten pages documenting the development of the Dynamic Compliance Mesh. I used ChatGPT to generate images for the early concept renders.
 
 ### Page 1
 ![Page 1](p1.jpg)
@@ -21,6 +21,6 @@ Original handwritten pages documenting the development of the Dynamic Compliance
 ### Page 3
 ![Page 3](p3.jpg)
 
-**[Open the visualisation](https://claude.ai/artifact/UG2cFn85FFEdAKh9eYPhhb)**
+**[Open the visualisation](https://htmlpreview.github.io/?https://github.com/saturdayisnotsunday/DynamicComplianceMesh/blob/main/dcm-visual.html)**
 
 For more work, visit: [EMULATOR](https://github.com/saturdayisnotsunday/EMULATOR)
