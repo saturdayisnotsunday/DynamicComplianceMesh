@@ -20,7 +20,7 @@ Original handwritten pages documenting the development of the Dynamic Compliance
 
 ### Page 3
 ![Page 3](p3.jpg)
-
+**design update ,will be published soon**
 **[Open the visualisation](https://htmlpreview.github.io/?https://github.com/saturdayisnotsunday/DynamicComplianceMesh/blob/main/dcm-visual.html)**
 
 For more work, visit: [EMULATOR](https://github.com/saturdayisnotsunday/EMULATOR)
