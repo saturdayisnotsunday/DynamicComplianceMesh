@@ -24,3 +24,4 @@ Original handwritten pages documenting the development of the Dynamic Compliance
 **[Open the visualisation](https://htmlpreview.github.io/?https://github.com/saturdayisnotsunday/DynamicComplianceMesh/blob/main/dcm-visual.html)**
 
 For more work, visit: [EMULATOR](https://github.com/saturdayisnotsunday/EMULATOR)
+[Photonic Processing Unit](https://github.com/saturdayisnotsunday/Photonic-Processing-Unit)
