@@ -22,7 +22,7 @@ Handwritten pages documenting the development of the Dynamic Compliance Mesh.
 
 
 
-![Page 1](pg1.png)
+![Page 1](p1.png)
 
 
 
@@ -30,7 +30,7 @@ Handwritten pages documenting the development of the Dynamic Compliance Mesh.
 
 
 
-![Page 2](pg2.png)
+![Page 2](p2.png)
 
 
 
@@ -38,7 +38,7 @@ Handwritten pages documenting the development of the Dynamic Compliance Mesh.
 
 
 
-![Page 3](pg3.png)
+![Page 3](p3.png)
 
 
 ## Known Issues and Open Questions
