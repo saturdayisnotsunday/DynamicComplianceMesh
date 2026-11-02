@@ -4,11 +4,6 @@ A concept for impact-resistant vehicle structures: a hollow triangulated space f
 
 **Status:** early-stage theory. No simulation or physical testing has been done yet. Not for safety-critical use.
 
-## Concept Visualisation
-
-An interactive breakdown of the DCM structure: a cutaway body view, four styling variants on the same mesh, and the cell behaviour at rest vs. under impact.
-
-GitHub strips scripts from Markdown and raw HTML previews, so the file won't render inline on this page. Scroll to the bottom and click **Open visualization**.
 
 ## 3D Model
 
