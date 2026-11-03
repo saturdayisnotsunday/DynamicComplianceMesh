@@ -1,0 +1,117 @@
+newmtl front_zone
+Ka 0.89 0.34 0.18
+Kd 0.89 0.34 0.18
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl passenger_core
+Ka 0.18 0.52 0.87
+Kd 0.18 0.52 0.87
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl rear_zone
+Ka 0.96 0.65 0.14
+Kd 0.96 0.65 0.14
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl cabin_truss
+Ka 0.15 0.68 0.38
+Kd 0.15 0.68 0.38
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl roof_radial_disc
+Ka 0.56 0.27 0.68
+Kd 0.56 0.27 0.68
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl wheels
+Ka 0.20 0.20 0.20
+Kd 0.20 0.20 0.20
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl spring_coils
+Ka 0.00 0.74 0.83
+Kd 0.00 0.74 0.83
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl damper_sleeve
+Ka 0.55 0.60 0.68
+Kd 0.55 0.60 0.68
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl damper_rod
+Ka 0.85 0.87 0.90
+Kd 0.85 0.87 0.90
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl limit_fibres
+Ka 0.78 0.90 0.10
+Kd 0.78 0.90 0.10
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl tension_fibres
+Ka 0.91 0.12 0.39
+Kd 0.91 0.12 0.39
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl stiff_pillars
+Ka 0.07 0.07 0.07
+Kd 0.07 0.07 0.07
+Ks 0.20 0.20 0.20
+Ns 30
+d 1.00
+Tr 0.00
+illum 2
+
+newmtl glass
+Ka 0.60 0.85 1.00
+Kd 0.60 0.85 1.00
+Ks 0.20 0.20 0.20
+Ns 30
+d 0.30
+Tr 0.70
+illum 2
+
